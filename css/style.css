@@ -1,0 +1,38 @@
+/* --------------------------------------------------------------------------Classes--------------------------------------------------------------------------- */
+
+.container {
+  background-color: #FFE6C7;
+  text-align: center;
+  margin: auto;
+  width: 90%;
+}
+
+.dice {
+  display: inline-block;
+}
+
+/* --------------------------------------------------------------------------Tags------------------------------------------------------------------------------ */
+
+body {
+  background-color: #454545;
+}
+
+h1 {
+  margin: 30px;
+  color: #FF6000;
+  font-size: 7rem;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: 2px 0 #FFA559;
+
+}
+
+p {
+  color: #FFA559;
+  font-size: 2rem;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 1px 0 #232931;
+}
+
+img {
+  width: 80%;
+}
